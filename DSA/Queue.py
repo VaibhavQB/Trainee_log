@@ -40,29 +40,30 @@ class Queue:
         return str(self.queue) if not self.isEmpty() else "Queue is Empty"
 
 
-q = Queue(7)
+if __name__ == "__main__":
+    
+    q = Queue(7)
+    q.enqueue(10)
+    q.enqueue(1)
+    q.enqueue(17)
+    q.enqueue(91)
+    q.enqueue(179)
+    q.enqueue(99)
+    q.enqueue(100)
 
-q.enqueue(10)
-q.enqueue(1)
-q.enqueue(17)
-q.enqueue(91)
-q.enqueue(179)
-q.enqueue(99)
-q.enqueue(100)
+    q.enqueue(1088)
+    print(q.first())
+    print(q.last())
 
-q.enqueue(1088)
-print(q.first())
-print(q.last())
+    q.dequeue()
+    q.dequeue()
+    q.dequeue()
+    q.dequeue()
+    q.dequeue()
 
-q.dequeue()
-q.dequeue()
-q.dequeue()
-q.dequeue()
-q.dequeue()
+    q.dequeue()
+    q.dequeue()
+    q.dequeue()
 
-q.dequeue()
-q.dequeue()
-q.dequeue()
-
-print(q.first())
-print(q.last())
+    print(q.first())
+    print(q.last())

@@ -33,19 +33,21 @@ class Stack:
         return str(self.stack) if not self.isEmpty() else "Stack is Empty"
 
 
-s = Stack(7)
-s.stackpush("Hi")
-s.stackpush("All")
-s.stackpush("Great")
-print(s.top())
- 
-print(s.stacklen())
- 
-print("remove this element",s.stackpop())
-s.stackpop()
-s.stackpop()
-s.stackpop()
- 
-print(s.top())
-print(s.stacklen())
-print(s)
+if __name__ == "__main__":
+
+    s = Stack(7)
+    s.stackpush("Hi")
+    s.stackpush("All")
+    s.stackpush("Great")
+    print(s.top())
+    
+    print(s.stacklen())
+    
+    print("remove this element",s.stackpop())
+    s.stackpop()
+    s.stackpop()
+    s.stackpop()
+    
+    print(s.top())
+    print(s.stacklen())
+    print(s)
