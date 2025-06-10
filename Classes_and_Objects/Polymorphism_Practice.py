@@ -43,7 +43,7 @@ class Vehicle:
     print("Move!")
 
 class Car(Vehicle):
-    
+    # pass
     def move(self) :
         print("Drive!!!")
 
@@ -61,5 +61,6 @@ c = Car("Dodge", "Challanger")
 b = Boat("Sea Ray", "Sundancer 320")
 p  = Plane("Airbus","A380")
 
-for x in (c,b,p):
-    x.move()
+# for x in (c,b,p):
+#     x.move()
+[x.move() for x in (c,b,p)]
