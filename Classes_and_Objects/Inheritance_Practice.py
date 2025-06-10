@@ -58,4 +58,3 @@ class Employee(Person) :      # We need to give the parent class as the paramete
         
 E1 = Employee("Casey",27, "AI/ML Intern")
 print(E1.details())'''
-
