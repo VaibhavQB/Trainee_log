@@ -25,7 +25,7 @@ class Stack:
         return self.stack.pop()
 
     def top(self):
-        if self.isEmpty :
+        if self.isEmpty() :
             return "No Items in Stack"
         return self.stack[-1]
     
@@ -37,7 +37,7 @@ s = Stack(7)
 s.stackpush("Hi")
 s.stackpush("All")
 s.stackpush("Great")
-print(s)
+print(s.top())
  
 print(s.stacklen())
  
