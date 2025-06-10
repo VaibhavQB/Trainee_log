@@ -27,7 +27,7 @@ print(f'age = {d2._age}')'''
 # Use of Private Attributes/Members
 
 
-class PrivateDemo:
+'''class PrivateDemo:
     def __init__(self):
         self.__age = 17       # Using '__' makes the attribute Private
 
@@ -35,4 +35,4 @@ class PrivateChild(PrivateDemo):
     pass
 
 d3 = PrivateDemo()       
-#print(d3.__age)         # Will give error and same error eill be given if we make an object of PrivateChhild()
+#print(d3.__age)         # Will give error and same error eill be given if we make an object of PrivateChhild()'''
