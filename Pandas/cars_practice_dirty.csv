@@ -1,0 +1,36 @@
+Car ID,Brand,Model,Year,Engine Size,Fuel Type,Mileage (km),Price (USD),Owner Type,Location
+1,Audi,3 Series,Two Thousand Fifteen,2.0L,Diesel,20000,,second,Houston
+2,BMW,Model X,2019,Electric,Diesel,Forty Thousand,7500,First,Houston
+3,Tesla,Model X,2018,Electric,Petrol,35000,$15000,First,New York
+4,Audi,Focus,2019,two liters,petrol,65000,30000,Third,New York
+5,Ford,Focus,2014,,GAS,75000,20000,Second,Los Angeles
+6,Tesla,Camry,2011,,petrol,55000,27500,1,New York
+7,Tesla,Civic,2013,2.0L,Diesel,20000,15000,first,404
+8,Audi,3 Series,2021,,Petrol,65000,20000,Second,Houston
+9,Honda,3 Series,2021,2.0L,,35000,22500,first,New York
+10,Ford,Camry,2016,1.5L,Electric,,10000,Third,New York
+11,Audi,Optima,2021,Electric,petrol,10000,,Third,Los Angeles
+12,Ford,Optima,2022,Electric,Electric,50000,35000,,Los Angeles
+13,Ford,Camry,2017,Electric,Electric,65000,,second,
+14,Tesla,,2012,,Petrol,30000,25000,first,Houston
+15,,Focus,2010,1.5L,Electric,60000,10000,Second,Los Angeles
+16,Ford,3 Series,,,diesel,60000,30000,Third,New York
+17,Kia,,2011,,Electric,100000,35000,First,Houston
+18,Tesla,3 Series,2017,1.5L,Petrol,55000,17500,First,Houston
+19,Honda,Model X,2013,1.5L,diesel,35000,5000,first,New York
+20,BMW,Focus,2011,1.5L,Diesel,,7500,Third,Los Angeles
+21,Kia,A4,2015,1.5L,Electric,,,second,New York
+22,Kia,Focus,2015,Electric,Petrol,100000,12500,Third,Houston
+23,Honda,Camry,2019,2.4L,Diesel,65000,,first,Miami
+24,BMW,A4,2013,2.4L,Diesel,45000,20000,first,Miami
+25,Tesla,Model X,2015,1.5L,petrol,15000,,Third,Chicago
+26,Toyota,Camry,2022,2.4L,diesel,35000,27500,first,New York
+27,BMW,Civic,2011,2.4L,Electric,30000,,Third,New York
+28,Honda,3 Series,2019,1.5L,Petrol,40000,5000,Second,Chicago
+29,Kia,Model X,2021,2.4L,petrol,45000,5000,Third,Chicago
+30,Tesla,3 Series,2011,,diesel,25000,30000,Third,Chicago
+18,Tesla,3 Series,2017,1.5L,Petrol,55000,17500,First,Houston
+22,Kia,Focus,2015,Electric,Petrol,100000,12500,Third,Houston
+11,Audi,Optima,2021,Electric,petrol,10000,,Third,Los Angeles
+20,BMW,Focus,2011,1.5L,Diesel,,7500,Third,Los Angeles
+15,,Focus,2010,1.5L,Electric,60000,10000,Second,Los Angeles
