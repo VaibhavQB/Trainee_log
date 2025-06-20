@@ -1,0 +1,7 @@
+ID,Name,Age,Date Joined,Score,Department
+1, Alice,TRUE,2021-01-15,88.5,Sales
+2,Bob ,FALSE,15/02/2021,92,sales
+2,Charlie,40,2021-03-05,NA,HR
+,Dave,35,"April 10, 2021",85,HR 
+5,,,2021.05.01,90,finance
+6,Eve,28,2021-06-01,,Finance
